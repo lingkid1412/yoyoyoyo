@@ -1,0 +1,6 @@
+{
+  "name": "成員對照與戰力觀測站",
+  "description": "提供成員名單對照、拖曳排序與編輯功能，以及絕世毛利喵與其他成員的每週戰力成長觀測儀表板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
